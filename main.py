@@ -8,7 +8,7 @@ def api():
 
 def tweet(api: tweepy.API, message: str, image_path: str = None):
     if image_path is not None:
-        api.update_with_media(message: str, image_path:None):
+        api.update_with_media(message, image_path)
     else:
         api.update_status(message)
 
