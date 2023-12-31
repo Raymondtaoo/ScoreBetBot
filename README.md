@@ -1,7 +1,7 @@
 # ScoreBetBot Readme
 
 ## Overview
-![image](https://github.com/Raymondtaoo/ScoreBetBot/assets/123979366/d34884c2-bac4-48e7-ad43-69272399f7d6)
+![image](https://github.com/Raymondtaoo/ScoreBetBot/assets/123979366/d34884c2-bac4-48e7-ad43-69272399f7d6 =100x20)
 
 ScoreBetBot is a Python program designed to fetch information on bet lines and odds for NBA games and tweet them using the Twitter API. It utilizes the Selenium library to access a Chrome WebDriver, which allows it to scrape data from a specific website. This readme provides essential information for setting up and using ScoreBetBot.
 
